@@ -1,3 +1,5 @@
 *.tar filter=lfs diff=lfs merge=lfs -text
 HY_part_aa filter=lfs diff=lfs merge=lfs -text
 HY_part_ab filter=lfs diff=lfs merge=lfs -text
+HYlite_part_* filter=lfs diff=lfs merge=lfs -text
+HY-lite-part* filter=lfs diff=lfs merge=lfs -text
